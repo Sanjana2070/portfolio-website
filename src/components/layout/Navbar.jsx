@@ -9,7 +9,7 @@ const Navbar = () => {
   };
 
   const navItems = [
-    { label: 'Blog', path: 'https://speckle-amaryllis-96f.notion.site/DanJan-Creative-Blog-214b2d24a8fd809687f1fca7b2131e74' },
+    { label: 'Blog', path: 'https://danjancreativeblogs.notion.site/DanJan-Creative-Blog-214b2d24a8fd809687f1fca7b2131e74' },
     { label: 'Projects', path: '/projects' },
     { label: 'About', path: '/about' },
   ];

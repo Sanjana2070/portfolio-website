@@ -25,7 +25,7 @@ const About = () => {
 
             <br /><br />
 
-            Outside of building software, I am a dancer and choreographer who loves to travel and explore new cultures. Adventure is in my blood, whether it's skydiving in the United States, or dancing in the streets of Canada.
+            Outside of building software, I am a dancer and choreographer who loves to travel and explore new cultures. Adventure is in my blood, whether it's skydiving in the United States, or dancing in the streets of Canada. Yes I've done them both.
           </Typography>
         </div>
       </Box>

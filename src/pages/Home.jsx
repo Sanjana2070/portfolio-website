@@ -22,7 +22,7 @@ const Home = () => {
             <span style={{ color: '#666' }}>Sanjana Jain</span>
           </Typography>
           <Typography variant="h2" sx={{ maxWidth: '800px', mt: 4 }}>
-            I am a multi-disciplinary creative. I am working on merging movement and technology through the web application called Qalira.
+            I explore the intersection of lifestyle and technology to create innovative experiences that bridge art and engineering.
           </Typography>
         </div>
       </Box>

@@ -20,7 +20,7 @@ const Footer = () => {
           alignItems: 'center'
         }}>
           <Typography variant="body2" color="text.secondary">
-            © {new Date().getFullYear()} Your Name. All rights reserved.
+            © {new Date().getFullYear()} DanJan Creative. All rights reserved.
           </Typography>
           <Stack direction="row" spacing={2}>
             <IconButton 

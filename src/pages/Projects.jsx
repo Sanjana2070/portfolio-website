@@ -3,10 +3,16 @@ import React from 'react';
 
 const projects = [
   {
+    title: 'Pokedex',
+    description: 'A web app for searching and viewing Pokémon data.',
+    tech: ['React', 'Vite', 'Framer Motion'],
+    link: 'https://pokedex-janis.netlify.app/',
+  },
+  {
     title: 'Qalira',
-    description: 'A platform for discovering dance and music classes in Delhi.',
+    description: 'A platform for discovering dance and music classes in Delhi. Currently in development.',
     tech: ['Next.js', 'Tailwind CSS', 'MongoDB'],
-    link: 'https://qalira.netlify.app/',
+    link: 'https://github.com/Sanjana2070/Qalira',
   },
   {
     title: 'Portfolio Website',
